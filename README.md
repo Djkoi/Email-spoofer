@@ -1,5 +1,5 @@
 # Email-spoofer
-A very easy to use email spoofer just need to enter the details and spoof email in one click
+A very easy to use email spoofer just need to enter the details and spoof email in one click Either  buy the whole source code or use motnhly subscription.
 ![git](https://github.com/user-attachments/assets/f0cae9ed-40de-4194-9897-665aea204112)
 
 CONTACT VIA TELEGRAM: https://t.me/Dgkoi
